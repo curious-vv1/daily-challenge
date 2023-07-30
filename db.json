@@ -1,0 +1,29 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "day 0",
+      "content": "kuchh to kiya"
+    },
+    {
+      "title": "day 1",
+      "content": "webdev-filter in ecommerce,pb update,suit to laundry,robotics-3d printer,stock gro interview,bpsc application simpy di",
+      "id": 2
+    },
+    {
+      "title": "day 2",
+      "content": "bank links,grid quiz,robotics-3d printer,e-yantra,webdev-add,delete and update added to this one(used chatgpt)",
+      "id": 3
+    },
+    {
+      "title": "day 3",
+      "content": "shoes & clothes wash,bpsc form,vsm call,ib71,webdev-title & content chatgpt not completely understood added tailwind CSS using AI,robotics-step file for robodk",
+      "id": 4
+    },
+    {
+      "title": "day 4",
+      "content": "vsm dec, prepared for train",
+      "id": 5
+    }
+  ]
+}
